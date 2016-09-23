@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+    <string name="random_name">Randomizer</string>
+    <string name="bmi_name">BMI Calc</string>
+    <string name="country_name">Country List</string>
+    <string name="add_country_name">Add Country</string>
+    <string name="weather_name">Weather Forecast</string>
+    <string name="beer_name">Beer Fragments</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Menu/Nav -->
+    <string name="menu_header">Assignment Part One</string>
+    <string name="menu_header_name">Malte Dammann</string>
+    <string name="nav_random">Random Integer</string>
+    <string name="nav_bmi">BMI</string>
+    <string name="nav_country">Country</string>
+    <string name="nav_weather">Weather</string>
+    <string name="nav_fragments">Beer fragments</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- RandomActivity -->
+    <string name="button">Generate</string>
+    <string name="default_int">100</string>
+    <!-- BmiActivity -->
+    <string name="default_bmi">BMI</string>
+    <string name="btnCompute">Compute</string>
+    <string name="btnReset">Reset</string>
+    <string name="lblLenght">Lenght:</string>
+    <string name="lblWeight">Weight:</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+    <!-- CountryActivity -->
+    <string name="add">add country</string>
+    <string name="header">Add new country and the year of visit</string>
+    <string name="lblCountry">Country:</string>
+    <string name="hintCountry">new country name</string>
+    <string name="lblYear">Year:</string>
+    <string name="hintYear">year of visit</string>
+    <string name="btnAdd">Add</string>
+    <!-- WeatherActivity -->
+
+    <!-- BeerActivity -->
+
+
+</resources>
